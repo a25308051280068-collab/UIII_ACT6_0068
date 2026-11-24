@@ -1,18 +1,18 @@
 ## Christian Garcia Jimenez 
 ## Nc = 0068
 ## Imagenes originales (Tomate)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-
-## Imagen original (Pepino)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
+## Imagen original (Pepino)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 ## Resultado de terminal (TOMATE)
 ![alt text](image.png)
@@ -20,5 +20,5 @@
 ## Resultado de terminal (PEPINO)
 ![alt text](image-1.png)
 
-## Resultadi de la practica
+## Resultado de la practica
 ![alt text](image-12.png)
