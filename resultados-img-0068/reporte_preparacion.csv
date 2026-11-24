@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+tomate,tomate1.png,OK,545,366,224,224,0.0,1.0,APROBADA
+tomate,tomate2.png,OK,365,547,224,224,0.004,0.992,APROBADA
+tomate,tomate3.png,OK,489,408,224,224,0.0,1.0,APROBADA
+tomate,tomate4.png,OK,678,452,224,224,0.0,1.0,APROBADA
+tomate,tomate5.png,OK,638,428,224,224,0.0,1.0,APROBADA
+pepino,pepino1.png,OK,547,365,224,224,0.0,0.996,APROBADA
+pepino,pepino2.png,OK,606,330,224,224,0.0,0.996,APROBADA
+pepino,pepino3.png,OK,599,375,224,224,0.0,1.0,APROBADA
+pepino,pepino4.png,OK,515,388,224,224,0.0,0.996,APROBADA
+pepino,pepino5.png,OK,452,678,224,224,0.0,0.984,APROBADA
